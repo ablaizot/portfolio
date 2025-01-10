@@ -3,7 +3,7 @@ title: Engineering Portfolio
 ---
 ### [AXI C2C DMA for CERN DAQ Board](https://ablaizot.github.io/portfolio/2025/01/09/DMA_Driver.html), BU Department of Physics
 I implemented an AXI DMA with the goal of improving chip to chip communication between the Zynq SoC and two Xilinx Ultrascale+ FPGAs on the Apollo ATCA
-blades for use at the HL-LHC. This project involved firmware, kernel drivers, and software. More information on the Apollo blades can be found in this [TWEPP conference paper](https://arxiv.org/pdf/2501.03702)
+blades for use at the HL-LHC. This project involved firmware, kernel drivers, and software. More information on the Apollo blades can be found in this [TWEPP conference paper](https://arxiv.org/pdf/2501.03702).
 
 ### [Aerobatic Black Box](https://ablaizot.github.io/portfolio/2025/01/09/Aerobatic-black-box.html), Senior Design Project
 This Aerobatic Black Box project aims to provide pilots with a means to review their in-flight performance. Our group's device seeks to accomplish this task by integrating digital sensors, cameras, and machine vision to record and digitize flight data and cockpit interactions, eventually incorporating this data into a 3D simulation. This simulation will allow pilots to analyze their performance from both internal and external perspectives. Significant progress has been made this semester, including the development of functional prototypes, sensor integration, and the implementation of machine vision models for instrument detection.
