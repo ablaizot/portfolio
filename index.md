@@ -2,7 +2,7 @@
 title: Engineering Portfolio
 ---
 ### [AXI DMA for CERN DAQ Board](https://ablaizot.github.io/portfolio/2025/01/09/DMA_Driver.html)
-I implemented an AXI DMA with the goal of improving chip to chip communication between a Zynq SoC and two o Xilinx Ultrascale+ FPGAs.
+I implemented an AXI DMA with the goal of improving chip to chip communication between a Zynq SoC and two Xilinx Ultrascale+ FPGAs.
 This project involved firmware, kernel drivers, and software. More information on the application can be found in this [TWEPP conference paper](https://arxiv.org/pdf/2501.03702)
 
 
