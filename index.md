@@ -1,5 +1,5 @@
 ---
-title: Project Portfolio
+title: Engineering Portfolio
 ---
 
 ### Aerobatic Black Box, Senior Design Project Aug 2024 – Present
