@@ -9,7 +9,7 @@ blades for use at the HL-LHC. This project involved firmware, kernel drivers, an
 This Aerobatic Black Box project aims to provide pilots with a means to review their in-flight performance. Our group's device seeks to accomplish this task by integrating digital sensors, cameras, and machine vision to record and digitize flight data and cockpit interactions, eventually incorporating this data into a 3D simulation. This simulation will allow pilots to analyze their performance from both internal and external perspectives. Significant progress has been made this semester, including the development of functional prototypes, sensor integration, and the implementation of machine vision models for instrument detection.
 
 
-### [Icarus](https://ablaizot.github.io/portfolio/2025/01/09/Icarus.html), BURPFG
+### [Icarus](https://ablaizot.github.io/portfolio/2025/01/09/Icarus.html), BURPG
 Icarus is a 17-ft long liquid bipropellant rocket using isopropyl alcohol and nitrous oxide slated to launch in March 2025. The engine, Iron Lotus IV, has a maximum thrust of 2,500 lbf (11 kN).
 I designed and iterated on a PCB for the flight computer. I also wrote flight software for the sampling and logging of the onboard pressure transducers, thermocouples, accelerometers, and barometric altimeters.
 
