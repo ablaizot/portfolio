@@ -16,3 +16,12 @@ The BRAMs I implemented in the command module firmware are found in [Inner Track
 
 ### References
 I followed a [Xilinx DMA driver guide](https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/1027702787/Linux+DMA+From+User+Space+2.0) to get the loopback test working.
+For more information on the Apollo blades is found on the [wiki](https://apollo-lhc.gitlab.io/). 
+
+## Pictures
+<p align="center">
+<img src="../images/DSCF1734.JPG" width="50%">
+</p>
+<p align="center">
+Apollo Blades in their crate at CERN Tracker Integration Facility (TIF)
+</p>
