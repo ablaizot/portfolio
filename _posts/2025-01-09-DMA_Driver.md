@@ -20,7 +20,7 @@ For more information on the Apollo blades is found on the [wiki](https://apollo-
 
 ## Pictures
 <p align="center">
-<img src="/portfolio/images/Apollo.jpg" width="50%">
+<img src="/portfolio/images/Apollo.jpg" width="70%">
 </p>
 <p align="center">
 Apollo Blades in their crate at CERN Tracker Integration Facility (TIF)
