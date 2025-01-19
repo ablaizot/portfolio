@@ -1,6 +1,8 @@
 ---
-title: Engineering Portfolio
+title: Aymeric Blaizot
+subtitle: ablaizot@bu.edu
 ---
+
 ### [AXI C2C DMA for CERN DAQ Board](https://ablaizot.github.io/portfolio/2025/01/09/DMA_Driver.html), BU Department of Physics
 I implemented an AXI DMA with the goal of improving chip to chip communication between the Zynq SoC and two Xilinx Ultrascale+ FPGAs on the Apollo ATCA
 blades for use at the HL-LHC. This project involved firmware, kernel drivers, and software. More information on the Apollo blades can be found in this [TWEPP conference paper](https://arxiv.org/pdf/2501.03702).
