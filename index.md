@@ -17,3 +17,6 @@ I designed and iterated on a PCB for the flight computer. I also wrote flight so
 
 ### [Horizontal Test Stand (HTS)](https://ablaizot.github.io/portfolio/2025/01/09/HTS.html), BUPRG
 HTS is mobile test stand capable of testing liquid bipropellant engines up to 10,000 lbf. After 3 cold flow operations, HTS fired the Iron Lotus IV engine 3 times in spring of 2023. I built and ran data acquisition for magnetic pick-up flowmeter and used time frequency analysis to extract flow rate in MATLAB.
+
+### Contact Information
+Email: ablaizot@bu.edu
