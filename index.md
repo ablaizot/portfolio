@@ -11,10 +11,10 @@ blades for use at the HL-LHC. This project involved firmware, kernel drivers, an
 
 
 <p align="right">
-<img src="images/Apollo.jpg" width="90%">
+<img style = "float: right;" img src="images/Apollo.jpg" width="90%">
 </p>
 <p align="center">
-Apollo Blades in their crate at CERN Tracker Integration Facility (TIF)
+Apollo Blades in their crate at CERN Tracker Integration Facility (TIF).
 </p>
 
 
@@ -22,10 +22,10 @@ Apollo Blades in their crate at CERN Tracker Integration Facility (TIF)
 This Aerobatic Black Box project aims to provide pilots with a means to review their in-flight performance. Our group's device accomplished this task by integrating digital sensors, cameras, and machine vision to record and digitize flight data and cockpit interactions, eventually incorporating this data into a 3D simulation. This simulation will allow pilots to analyze their performance from both internal and external perspectives.
 
 <p align="left">
-<img src="images/black_box.jpg" width="90%">
+<img style = "float: left;" src="images/black_box.jpg" width="90%">
 </p>
 <p align="center">
-Areobatic data recorder mounted below the seat.
+Areobatic data recorder mounted below the passenger seat.
 </p>
 
 ### [Icarus](https://ablaizot.github.io/portfolio/2025/01/09/Icarus.html), BURPG
@@ -33,7 +33,7 @@ Icarus is a 17-ft long liquid bipropellant rocket using isopropyl alcohol and ni
 I designed and iterated on a PCB for the flight computer. I also wrote flight software for the sampling and logging of the onboard pressure transducers, thermocouples, accelerometers, and barometric altimeters. 
 
 <p align="right">
-<img src="images/icaurs.jpg" width="90%">
+<img src="images/icarus.jpg" width="90%">
 </p>
 <p align="center">
 Icarus launching at the Friends of Amateur Rocketry site.
