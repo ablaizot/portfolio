@@ -18,7 +18,7 @@ Apollo Blades in their crate at CERN Tracker Integration Facility (TIF)
 
 
 ### [Aerobatic Black Box](https://ablaizot.github.io/portfolio/2025/01/09/Aerobatic-black-box.html), Senior Design Project
-This Aerobatic Black Box project aims to provide pilots with a means to review their in-flight performance. Our group's device accomplished this task by integrating digital sensors, cameras, and machine vision to record and digitize flight data and cockpit interactions, eventually incorporating this data into a 3D simulation. This simulation will allow pilots to analyze their performance from both internal and external perspectives.
+This Aerobatic Black Box project aims to provide pilots with a means to review their in-flight performance. Our group's device accomplished this task by integrating digital sensors, cameras, and machine vision to record and digitize flight data and cockpit interactions, eventually incorporating this data into a 3D flight simulator. This visualization allows pilots to analyze their performance from both internal and external perspectives.
 
 <p align="center">
 <img src="images/black_box.jpg" width="30%">
