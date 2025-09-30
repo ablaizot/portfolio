@@ -8,10 +8,10 @@ subtitle: ablaizot@bu.edu
 I assembled and tested 40 preproduction data acquisition and trigger boards to be used in various experiments at the LHC. In a little over two months, I learned how to assemble the boards and test the FPGAs, before automating as much of the process as possible, and teaching colleagues how to assemble and test the boards themselves. By developing tools to help myself, I completed the preproduction ahead of schedule while also increasing the productivity of those that will handle the production run.
 
 <p align="center">
-<img src="images/Apollo_assembled.jpg" width="30%">
+<img src="images/Apollo_assembled.jpg" width="50%">
 </p>
 <p align="center">
-Apollo Blades in their crate at CERN Tracker Integration Facility (TIF)
+Apollo Blades in their crate at the Boston University Electronics Design Facility (EDF).
 </p>
 
 
@@ -50,6 +50,13 @@ HTS firing at Crow Island Airpark.
 I implemented an AXI DMA with the goal of improving chip to chip communication between the Zynq SoC and two Xilinx Ultrascale+ FPGAs on the Apollo ATCA blades for use at the HL-LHC. This project involved firmware, kernel drivers, and software.
 
  More information on the Apollo blades can be found in this [paper](https://doi.org/10.1088/1748-0221/20/04/C04001).
+
+<p align="center">
+<img src="images/Apollo.jpg" width="50%">
+</p>
+<p align="center">
+Apollo Blades in their crate at CERN Tracker Integration Facility (TIF)
+</p>
 
 ### Contact Information
 Email: ablaizot@bu.edu
