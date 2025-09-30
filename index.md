@@ -3,14 +3,12 @@ title: Aymeric Blaizot
 subtitle: ablaizot@bu.edu
 ---
 
+### [Apollo Blade Assembly](https://ablaizot.github.io/portfolio/2025/09/30/Apollo_Assembly.html), BU Electronics Design Facility
 
-### [AXI C2C DMA for CERN DAQ Board](https://ablaizot.github.io/portfolio/2025/01/09/DMA_Driver.html), BU Department of Physics
-I implemented an AXI DMA with the goal of improving chip to chip communication between the Zynq SoC and two Xilinx Ultrascale+ FPGAs on the Apollo ATCA
-blades for use at the HL-LHC. This project involved firmware, kernel drivers, and software. More information on the Apollo blades can be found in this [TWEPP conference paper](https://arxiv.org/pdf/2501.03702).
-
+I assembled and tested 40 preproduction data acquisition and trigger boards to be used in various experiments at the LHC. In a little over two months, I learned how to assemble the boards and test the FPGAs, before automating as much of the process as possible, and teaching colleagues how to assemble and test the boards themselves. By developing tools to help myself, I completed the preproduction ahead of schedule while also increasing the productivity of those that will handle the production run.
 
 <p align="center">
-<img src="images/Apollo.jpg" width="30%">
+<img src="images/Apollo_assembled.jpg" width="30%">
 </p>
 <p align="center">
 Apollo Blades in their crate at CERN Tracker Integration Facility (TIF)
@@ -47,6 +45,11 @@ HTS is mobile test stand capable of testing liquid bipropellant engines up to 10
 <p align="center">
 HTS firing at Crow Island Airpark.
 </p>
+
+### [AXI C2C DMA for CERN DAQ Board](https://ablaizot.github.io/portfolio/2025/01/09/DMA_Driver.html), BU Department of Physics
+I implemented an AXI DMA with the goal of improving chip to chip communication between the Zynq SoC and two Xilinx Ultrascale+ FPGAs on the Apollo ATCA blades for use at the HL-LHC. This project involved firmware, kernel drivers, and software.
+
+ More information on the Apollo blades can be found in this [paper](https://doi.org/10.1088/1748-0221/20/04/C04001).
 
 ### Contact Information
 Email: ablaizot@bu.edu

@@ -7,7 +7,7 @@ date: 2025-01-09
 The objective is a SM to CM DMA driver that allows for a transfer speed closer to physical link speed of 5 Gb/s. The timely calibration of sensors relies on configurations being pushed from the SM to CM at speeds greater than the 25 Mpbs previously acheived.
 
 ### Status
-DMA loopback test succeeded. I am now attempting to connect the DMA to the C2C bridges.
+DMA loopback test succeeded.
 
 ### Repositories
 I wrote testbench used to evaluate read/write speeds in C++ [here](https://github.com/ablaizot/speedtest/tree/CMspeed).
@@ -25,3 +25,4 @@ For more information on the Apollo blades is found on the [wiki](https://apollo-
 <p align="center">
 Apollo Blades in their crate at CERN Tracker Integration Facility (TIF)
 </p>
+
